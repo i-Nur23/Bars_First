@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bars", "Bars\Bars.csproj", "{BF57EED8-7B5A-40B1-A5C9-EAD928A95513}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bars", "Bars\Bars.csproj", "{BF57EED8-7B5A-40B1-A5C9-EAD928A95513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bars_Task_1", "Bars_Task_1\Bars_Task_1.csproj", "{ABCB3AB7-074B-4869-B1B5-CBE998817DB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BF57EED8-7B5A-40B1-A5C9-EAD928A95513}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF57EED8-7B5A-40B1-A5C9-EAD928A95513}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF57EED8-7B5A-40B1-A5C9-EAD928A95513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABCB3AB7-074B-4869-B1B5-CBE998817DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCB3AB7-074B-4869-B1B5-CBE998817DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCB3AB7-074B-4869-B1B5-CBE998817DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCB3AB7-074B-4869-B1B5-CBE998817DB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
